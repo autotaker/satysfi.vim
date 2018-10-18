@@ -13,6 +13,7 @@ set cpo&vim
 
 CompilerSet errorformat=
     \%E!\ [%m]\ at\ \"%f\"\\,\ line\ %l\\,\ characters\ %c%.%#,
+    \%E!\ [%m]\ at\ \"%f\"\\,\ line\ %l\\,\ character\ %c%.%#,
     \%C\ \ \ \ %m,
     \%Z\ \ \ \ %m.,
     \%-G%[%^!]%.%#
